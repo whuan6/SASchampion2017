@@ -15,8 +15,11 @@ Then k-medoids clustering **(Cluster)** was carried out for the non-loss and los
 ## Result
 The HTML version of this project running result can be accessed through the following link:
 <https://whuan6.github.io/SASchampion2017/DataPreprocessing.html>
+
 <https://whuan6.github.io/SASchampion2017/ClassPrediction.html>
+
 <https://whuan6.github.io/SASchampion2017/ClusterPreprocessing.html>
+
 <https://whuan6.github.io/SASchampion2017/Cluster.html>
 
 ps: 

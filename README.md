@@ -4,7 +4,7 @@
 Based on the data of an airline company, a model was constructed to carry out loss warning, including loss probability model and customer portrait.
 
 ## Mining 
-![Mining Process](/Users/wanghuan/Desktop/wh/Paper_hnu/churn_sasmining/kdd_churn_html and paper/miningProcess.png)
+![Mining Process](https://github.com/whuan6/SASchampion2017/blob/master/miningProcess.png)
 
 Taking 58,954 pieces of aviation customer data after data preprocessing **(DataPreprocessing)** as an example, customer loss prediction and value segmentation are respectively carried out through classification and clustering techniques in data mining.
 
@@ -20,4 +20,4 @@ The HTML version of this project running result can be accessed through the foll
 <https://whuan6.github.io/SASchampion2017/Cluster.html>
 
 ps: 
-Jupyter nootbook files and all data files in JupyterDataFile folder. Some running image results are in the Figure folder.
+All data files are in data folder and the running image results are in the figure folder.

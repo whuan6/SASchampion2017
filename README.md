@@ -4,7 +4,7 @@
 Based on the data of an airline company, a model was constructed to carry out loss warning, including loss probability model and customer portrait.
 
 ## Mining 
-![Mining Process](/Users/wanghuan/Desktop/wh/Paper本科/数据挖掘--航空客户流失/kdd_churn_html and paper/Vertical+Cross+Functional+Template.png)
+![Mining Process](/Users/wanghuan/Desktop/wh/Paper_hnu/churn_sasmining/kdd_churn_html and paper/miningProcess.png)
 
 Taking 58,954 pieces of aviation customer data after data preprocessing **(DataPreprocessing)** as an example, customer loss prediction and value segmentation are respectively carried out through classification and clustering techniques in data mining.
 
